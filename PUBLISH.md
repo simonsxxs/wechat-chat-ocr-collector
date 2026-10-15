@@ -6,7 +6,7 @@
 |------|------|------|---------|------|
 | GitHub | ✅已上架 | https://github.com/simonsxxs/wechat-chat-ocr-collector | 2026-10-15 | 完整包：SKILL.md + scripts/collect.py + references |
 | Gitee | ✅已上架 | https://gitee.com/simonsxx/wechat-chat-ocr-collector | 2026-10-15 | GitHub 镜像，SSH 推送 |
-| SkillHub | ⏳待用户提交 | https://skillhub.cn | 2026-10-15 | 需微信登录 + 实名认证，纯 md 包已备好 |
+| SkillHub | ⏳安全审核中 | https://skillhub.cn/skills/indiv-simonsxx/wechat-chat-ocr-collector | 2026-10-15 | 2026-10-15 提交成功（API 201），分类：办公效率/文档处理，v1.0.0，审核通过后公开 |
 | ima 技能广场 | ➖不适用 | | | 用户未指定 |
 | aiSkill.market | ➖不适用 | | | 用户未指定 |
 | ClawHub | ➖不适用 | | | 用户未指定 |
